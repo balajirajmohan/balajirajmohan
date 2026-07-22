@@ -22,14 +22,6 @@
 
 ---
 
-## 🎯 Profile Focus Areas
-
-*   **💾 Bare-Metal & Air-Gapped Infrastructure:** Extensive experience building and operating on-premise/hybrid Kubernetes (Rancher, OpenShift, vanilla clusters) where high visibility and strict configuration control are absolute requirements.
-*   **🌐 SRE & High-Fidelity Observability:** Focused on actionable telemetry, reducing alert noise, improving MTTR, and implementing postmortem-driven feedback loops using OpenTelemetry, Prometheus/Grafana, and Dynatrace SaaS (1-second granularity alerting).
-*   **🛡️ Policy-as-Code & Compliance:** Codifying security standards and compliance frameworks (ISO 27001, SOC 2, NIST 800-53, CIS benchmarks) across multi-account/multi-subscription environments using Terraform, Azure Policy, Wiz, and CI/CD quality gates.
-
----
-
 ## 🛠️ Technical Skillset
 
 | Category | Technologies |
@@ -67,14 +59,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=balajirajmohan&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -102,9 +86,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="600"/>
 </p>
-
----
-
-<div align="center">
-  Designed with ❤️ by Balaji BR
-</div>
